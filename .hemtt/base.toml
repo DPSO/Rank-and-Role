@@ -1,0 +1,8 @@
+name = "rank_role"
+prefix = "ghostb"
+author = "YonV"
+template = "cba"
+mainprefix = "z"
+files = ["mod.cpp"]
+folder_optionals = true
+sig_version = 3
