@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Ghosts of Battle Rank&Role">
+
+	<!-- ####################################################################################### -->
+	<Package name="ghostb_rankrole">
+
+		<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+		<Container name="classrank">
+			<!-- =============================================================================== -->
+			<Key ID="STR_ghostb_rankrole_Title">
+				<Original>Ghost of Battle classrank</Original>
+			</Key>
+			<Key ID="STR_ghostb_rankrole_Author">
+				<Original>Ghost of Battle-Team</Original>
+			</Key>
+			<Key ID="STR_ghostb_rankrole_URL">
+				<Original>https://github.com/ghosts-of-battle/mods</Original>
+			</Key>
+			<!-- =============================================================================== -->
+		</Container>
+		<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+	</Package>
+	<!-- ####################################################################################### -->
+
+</Project>
