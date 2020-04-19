@@ -1,7 +1,6 @@
 
 if (hasInterface) then {
-	sleep 2; 
-
+	
     _playerUID = getPlayerUID player;
 
     switch (true) do {

@@ -26,6 +26,15 @@ class CfgFunctions {
 			class rankrole {postInit = 1;};
 		};
 	};
+	class ghostb_drongo {
+
+		tag = "ghostb_drongo";
+		class RankRole {
+
+			file = "ghostb_rankrole\Functions";
+			class drongo {postInit = 1;};
+		};
+	};
 };
 
 class Extended_PreInit_EventHandlers {
